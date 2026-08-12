@@ -58,5 +58,25 @@
     "author": "Trig Series",
     "description": "These sources provide a technical and pedagogical foundation for **trigonometry**, detailing the fundamental relationships between **angles, ratios, and side lengths**. They define primary functions like **sine, cosine, and tangent** alongside their **reciprocal counterparts**—cosecant, secant, and cotangent—using both **right triangle geometry** and the **unit circle**. The material emphasizes the **cyclical nature** of these functions, explaining how their **periodicity** necessitates **domain restrictions** when solving for unique angles using **inverses**. Practical problem-solving techniques are also covered, including **algebraic isolation**, **factoring with u-substitution**, and the application of **Pythagorean and reciprocal identities** to simplify complex expressions. Collectively, the texts serve as a comprehensive guide for identifying **missing values** in geometric figures and mastering the **mathematical equalities** essential for advanced calculus.",
     "file": "audio/Trig_Equations_Toolkit.mp4"
+  },
+  {
+    "id": "7",
+    "title": "Debate! - Is AI temperature Creativity or Noise? - How LLMs Process User Input",
+    "category": "tech",
+    "date": "2026-07-14",
+    "duration": "20:25",
+    "author": "Frontier AI Reports",
+    "description": "These sources explore the **architectural mechanics and philosophical implications** of artificial intelligence, contrasting traditional models with new theories of machine intelligence. One perspective utilizes John Searle’s **Chinese Room argument** to suggest that large language models are merely "computerized librarians" that follow rote rules without true understanding or consciousness. Technical analyses further explain that AI operates through **probabilistic calculations and matrix multiplication** rather than genuine thought, using variables like temperature and Top-P to balance accuracy with creativity. A novel framework, the **Takens-based Transformer**, is introduced as a more efficient alternative to standard attention mechanisms by treating language as a **dynamic trajectory** through a semantic manifold. This research demonstrates that replacing complex statistical matching with **phase-space reconstruction** can produce functional, resource-conscious models that operate on unique geometric principles. Ultimately, the collection clarifies that modern AI is a sophisticated system of **mathematical predictions** shaped by specific design choices and hardware constraints.",
+    "file": "audio/Is_AI_temperature_creativity_or_noise"
+  },
+  {
+    "id": "8",
+    "title": "Why Your Chatbot Lies About Its Dials - How LLMs Process User Input",
+    "category": "tech",
+    "date": "2026-07-14",
+    "duration": "22:18",
+    "author": "Frontier AI Reports",
+    "description": "These sources provide a technical overview of how **Large Language Models** function through **mathematical calculations** rather than human-like consciousness. The text explains the internal pipeline of AI hardware, where user prompts are converted into **numerical vectors** and processed using **matrix multiplication** and **self-attention mechanisms**. It highlights the differences between **traditional rule-based coding** and the **probabilistic nature** of modern machine learning. Furthermore, the documents detail how parameters like **temperature**, **Top-K**, and **Top-P** act as mathematical filters to control the creativity and predictability of an AI’s output. Finally, the text addresses why **small, quantized models** may fail and distinguishes between consumer chat interfaces and **developer sandboxes** for adjusting model behavior.",
+    "file": "audio/Why_Your_Chatbot_Lies_About_Its_Dials.m4a"
   }
 ]
